@@ -1,4 +1,4 @@
-# 升学E网通试题答案获取脚本
+# 升学E网通试题答案获取脚本研究项目
 
 ![GitHub stars](https://img.shields.io/github/stars/[xnssg]/[ewt360-answer-script]?style=social)
 ![GitHub license](https://img.shields.io/github/license/[xnssg]/[ewt360-answer-script])
