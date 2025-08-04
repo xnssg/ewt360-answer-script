@@ -390,7 +390,7 @@
 
         const settingsButton = document.createElement('button');
         settingsButton.id = 'ewtSettingsButton';
-        settingsButton.textContent = 'EWT脚本设置';
+        settingsButton.textContent = 'EWT答案获取脚本设置';
         settingsButton.style.cssText = CONFIG.SETTINGS_BUTTON_STYLE;
         settingsButton.addEventListener('click', showSettings);
         document.body.appendChild(settingsButton);
@@ -673,7 +673,7 @@
             // 恢复按钮状态
             const settingsButton = document.querySelector('#ewtSettingsButton');
             if (settingsButton) {
-                settingsButton.textContent = 'EWT脚本设置';
+                settingsButton.textContent = 'EWT答案获取脚本设置';
                 settingsButton.disabled = false;
             }
             state.isLoading = false;
