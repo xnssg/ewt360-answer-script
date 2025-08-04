@@ -2,9 +2,9 @@
 // @name         升学 E 网通 (EWT360) 试题答案获取
 // @namespace    https://ewt.zhicheng233.top/examanswer
 // @version      1.1
-// @description  此脚本在 EWT 试题中获取试题答案喵~
+// @description  仅供学习交流，严禁用于商业用途，请于24小时内删除
 // @match        https://web.ewt360.com/mystudy/
-// @author       仅供学习交流，严禁用于商业用途，请于24小时内删除
+// @author       xnssg
 // @icon         https://web.ewt360.com/favicon.ico
 // @license      GNU General Public License
 // @grant        GM_getValue
