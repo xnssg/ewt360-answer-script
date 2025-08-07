@@ -149,3 +149,4 @@
 
 
 ## 📜 许可证
+本项目采用 [BSD 3-Clause “New” or “Revised” License](LICENSE) 协议，仅供学习交流使用，严禁用于商业用途，请于24小时内删除。
