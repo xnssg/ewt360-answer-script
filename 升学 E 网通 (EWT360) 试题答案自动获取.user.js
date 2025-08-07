@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         升学 E 网通 (EWT360) 试题答案获取
 // @namespace    https://ewt.zhicheng233.top/examanswer
-// @version      1.4.3
+// @version      1.3.3
 // @description  自动提取reportId，支持多种方式支持作者，修复捐赠面板无法打开问题
 // @match        https://web.ewt360.com/mystudy/
 // @author       xnssg
