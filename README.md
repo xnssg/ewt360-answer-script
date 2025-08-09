@@ -26,8 +26,8 @@
   - [Firefox商店](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/)
 
 ### 安装脚本
-1. 直接通过GreasyFork安装（推荐，支持自动更新）：  
-   [升学 E 网通 (EWT360) 试题答案获取](https://update.greasyfork.org/scripts/524802/%E5%8D%87%E5%AD%A6%20E%20%E7%BD%91%E9%80%9A%20%28EWT360%29%20%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88%E8%8E%B7%E5%8F%96.user.js)
+1. 直接通过GreasyFork安装（推荐，支持自动更新）（暂时取消）：  
+   [升学 E 网通 (EWT360) 试题答案获取]()
 2. 或从仓库安装：  
    点击仓库中的脚本文件：[ewt360-exam-answer.user.js](https://github.com/[xnssg]/[ewt360-answer-script]/blob/main/ewt360-exam-answer.user.js)，点击页面右上角的**Raw**按钮，脚本管理器会自动识别并弹出安装提示，点击“安装”即可。
 
